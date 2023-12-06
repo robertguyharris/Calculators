@@ -80,7 +80,7 @@ var chart = new Chart(ctx, {
           text: 'Month',
           color: 'white',
           font: {
-            size: 15
+            size: 14
           }
         },
         ticks: {
